@@ -11,7 +11,7 @@ cd Documents\Multi-Omics-Exploration-Tool
 ```
 3. Clone this GitHub repository into your folder.
 ```bash
-git clone https://github.com/driesheylen123/Multi_omics_exploration.git
+git clone https://github.com/driesheylen123/BioMOBS-topological-analyses.git
 ```
 
 5. Install all necessary dependencies. *Make sure [Node.js](https://nodejs.org) is installed on your device*
