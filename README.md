@@ -7,7 +7,7 @@ This project is developped in the JavaScript framework [Svelte](https://svelte.d
 1. Open the terminal/command promt on your pc.
 2. change the directory to the folder you want to store the application in.
 ```bash
-cd Documents\Multi-Omics-Exploration-Tool
+cd Documents\Biomobs_topological_analyses
 ```
 3. Clone this GitHub repository into your folder.
 ```bash
