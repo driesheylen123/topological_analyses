@@ -1,5 +1,5 @@
 # Intro
-In the BioMOBS workflow this tool for topological analyses (Task 1) integrates with Task 2 CKG (https://ckg.readthedocs.io/en/latest/INTRO.html) and Task 3 MOBS ((https://mobs.vercel.app/) or https://github.com/driesheylen123/Multi_omics_exploration/tree/BioMOBS-update) to perform clinically relevant pathway analyses. This repository is based on a copy/paste/modify approach for creating visualisation dashboards. Users can easily format their own data to apply the workflow upon at (https://driesheylen.shinyapps.io/shiny/. Also test data is available there.
+In the BioMOBS workflow this tool for topological analyses (Task 1) integrates with Task 2 CKG (https://ckg.readthedocs.io/en/latest/INTRO.html) and Task 3 MOBS (https://mobs.vercel.app/) to perform clinically relevant pathway analyses. This repository is based on a copy/paste/modify approach for creating visualisation dashboards. Users can easily format their own data to apply the workflow upon at (https://driesheylen.shinyapps.io/shiny/. Also test data is available there.
 ## Running the app locally
 This project is developped in the JavaScript framework [Svelte](https://svelte.dev). To run this application locally, clone the repository to a directory on your computer. *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
