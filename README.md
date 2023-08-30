@@ -7,13 +7,16 @@ This project is developped in the JavaScript framework [Svelte](https://svelte.d
 1. Open the terminal/command promt on your pc.
 2. change the directory to the folder you want to store the application in.
 ```bash
-cd Documents\Biomobs_topological_analyses
+cd Documents
 ```
 3. Clone this GitHub repository into your folder.
 ```bash
 git clone https://github.com/driesheylen123/BioMOBS-topological-analyses.git
 ```
-
+4. Navigate to the cloned repository
+```bash
+cd Documents\Biomobs_topological_analyses
+```
 5. Install all necessary dependencies. *Make sure [Node.js](https://nodejs.org) is installed on your device*
 ```bash
 npm install
