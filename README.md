@@ -3,7 +3,7 @@ We designed BioMOBS, a multi-omics visual analytics workflow for biomolecular in
 
 ![Figure 1 (14)](https://github.com/driesheylen123/BioMOBS/assets/91141212/4376813c-9e44-499e-b756-674bb375116f)
 
-Users can easily format data to apply the workflow upon their own data at (https://driesheylen.shinyapps.io/shiny/. Test data for a fast try-out of the workflow is also available there.
+Users can easily format data to apply the workflow upon their own data at (https://biomobs.shinyapps.io/shiny/). Test data for a fast try-out of the workflow is also available there.
 ## Running the app locally
 This project is developped in the JavaScript framework [Svelte](https://svelte.dev). To run this application locally, clone the repository to a directory on your computer. *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
