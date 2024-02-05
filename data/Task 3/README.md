@@ -1,4 +1,4 @@
-This folder stores all data used in the use case.
+This folder stores all data used in the use case. All data is synthetically generated for demonstration purposes and does not represent real individuals
 
 - 'Usecase_correlation.json'
 is the data that can be imported in the MOBS toolset to explore the usecase data based on correlation analyses. Used to create Figure 1 and 3 in the short paper
